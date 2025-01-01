@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 174,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -13599793,
+	"displayName": "Four (Legacy)",
+	"icon": "fourdemo",
+	"name": "four legacy",
+	"color": "#307BCF"
+}

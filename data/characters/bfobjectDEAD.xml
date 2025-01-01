@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character y="430" sprite="bfobjectNEWDEAD" flipX="true" camy="30" isPlayer="true" icon="bfobject" gameOverChar="bfobjNEWDEAD" holdTime="6.1">
+	<anim name="firstDeath" anim="bfobjv2_FIRSTDEATH" x="-4" y="-19" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="bfobjv2_LOOP" x="-24" y="-37" fps="24" loop="true"/>
+	<anim name="deathConfirm" anim="bfobjv2_CONFIRM" x="-24" y="-6" fps="24" loop="false"/>
+</character>

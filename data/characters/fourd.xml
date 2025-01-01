@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-400" y="100" sprite="fourdemo" camy="50" icon="fourdemo" color="#307BCF" holdTime="6.1">
+	<anim name="idle" anim="4idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="4up" x="-20" y="6" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="4left" x="-10" y="6" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="4right" x="2" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="4down" x="-35" y="0" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stressed foru.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down instance 10000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="down instance 10001" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="down instance 10002" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="down instance 10003" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="idle instance 10000" x="5760" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="idle instance 10001" x="0" y="1080" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="idle instance 10002" x="1920" y="1080" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="idle instance 10003" x="3840" y="1080" width="1920" height="1080" frameX="-1" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="idle instance 10004" x="5760" y="1080" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="idle instance 10005" x="0" y="2160" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="idle instance 10006" x="1920" y="2160" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="idle instance 10007" x="3840" y="2160" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1921" frameHeight="1080"/>
+	<SubTexture name="left instance 10000" x="5760" y="2160" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1081"/>
+	<SubTexture name="left instance 10001" x="0" y="3240" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1081"/>
+	<SubTexture name="left instance 10002" x="1920" y="3240" width="1920" height="1080" frameX="0" frameY="-1" frameWidth="1920" frameHeight="1081"/>
+	<SubTexture name="left instance 10003" x="3840" y="3240" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1081"/>
+	<SubTexture name="right instance 10000" x="5760" y="3240" width="1920" height="1080"/>
+	<SubTexture name="right instance 10001" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="right instance 10002" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="right instance 10003" x="1920" y="4320" width="1920" height="1080"/>
+	<SubTexture name="up instance 10000" x="3840" y="4320" width="1920" height="1080"/>
+	<SubTexture name="up instance 10001" x="5760" y="4320" width="1920" height="1080"/>
+	<SubTexture name="up instance 10002" x="0" y="5400" width="1920" height="1080"/>
+	<SubTexture name="up instance 10003" x="1920" y="5400" width="1920" height="1080"/>
+</TextureAtlas>
