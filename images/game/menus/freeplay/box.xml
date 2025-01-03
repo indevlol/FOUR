@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="box.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="select instance 10000" x="0" y="0" width="161" height="78"/>
+	<SubTexture name="select instance 10001" x="0" y="78" width="161" height="78"/>
+	<SubTexture name="select instance 10002" x="0" y="156" width="161" height="78"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="select.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LEGACY instance 10000" x="0" y="0" width="520" height="68"/>
+	<SubTexture name="LEGACY instance 10001" x="0" y="68" width="520" height="68"/>
+	<SubTexture name="reg instance 10000" x="0" y="136" width="550" height="68"/>
+	<SubTexture name="reg instance 10001" x="0" y="204" width="550" height="68"/>
+</TextureAtlas>
