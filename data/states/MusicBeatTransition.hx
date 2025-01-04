@@ -4,6 +4,12 @@
 // State Author: Semi
 // ---------------------------------------------------------------------
 
+// IMPORTS
+import Type;
+
+// INTERNAL VARIABLES
+public static var shouldTransition:Bool = true;
+
 // FUNCTIONS
 function postCreate()
 {
@@ -13,6 +19,9 @@ function postCreate()
 
 function update()
 {
+	if (newState is PlayState)
+		shouldTransition = (Type.getClass(FlxG.state) == PlayState) ? false : true;
+
 	if (newState != null)
 		FlxG.switchState(newState);
 }

@@ -1,11 +1,11 @@
 <!DOCTYPE codename-engine-stage>
 <!DOCTYPE codename-engine-stage>
 <stage zoom="0.7" name="four" folder="stages/four/" startCamPosY = "0" startCamPosX="0">
-    <sprite name = "sky"            x = "-1800" y = "-900"   sprite = "skies/skyREG"   scroll = "0.05" scale="0.75"/>
-    <sprite name = "othertree"      x = "-460"  y = "170"     sprite = "othertree"      scrollx = "0.1"/>
-    <sprite name = "treesNormal2"   x = "800"   y = "0"       sprite = "treesNorm2"     scrollx = "0.25" />
-    <sprite name = "landBack"       x = "200"   y = "500"     sprite = "landBack"       scrollx = "0.5" />
-    <sprite name = "treesNormal"    x = "-1200"  y = "365"    sprite = "treesNorm"      scrollx = "0.75" />
+    <sprite name = "sky"            x = "-1800" y = "-900"   sprite = "skies/skyREG"   scroll = "0.01" scale="0.75"/>
+    <sprite name = "othertree"      x = "-460"  y = "-85"     sprite = "othertree"      scroll = "0.1"/>
+    <sprite name = "treesNormal2"   x = "1000"   y = "-200"       sprite = "treesNorm2"     scroll = "0.25" />
+    <sprite name = "landBack"       x = "150"   y = "375"     sprite = "landBack"       scroll = "0.5" />
+    <sprite name = "treesNormal"    x = "-900"  y = "273.75"    sprite = "treesNorm"      scroll = "0.75" />
     <sprite name = "landBack2"      x = "-1300"  y = "550"     sprite = "landBack2"      scrollx = "1" />
     <sprite name = "landNormal"     x = "-1200" y = "600"     sprite = "landNorm"       scrollx = "1" />
     <sprite name = "stash"          x = "-500"  y = "400"     sprite = "stash"          scrollx = "1" />

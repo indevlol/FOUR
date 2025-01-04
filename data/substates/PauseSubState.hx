@@ -7,10 +7,6 @@
 // IMPORTS
 import funkin.editors.charter.Charter;
 
-// INTERNAL VARIABLES
-public var shouldTransition:Bool = true;
-public var isResetting:Bool = false;
-
 // FUNCTIONS
 function onSelectOption(event)
 {
