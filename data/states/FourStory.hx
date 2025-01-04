@@ -125,9 +125,9 @@ function selectItem()
 	});
 }
 
-function changeItem(offset:Int)
+function changeItem(change:Int)
 {
-	curSelected = FlxMath.wrap(curSelected + offset, 0, thumbnails.length-1);
+	curSelected = FlxMath.wrap(curSelected + change, 0, thumbnails.length-1);
 
 	CoolUtil.playMenuSFX(0, 0.7);
 
