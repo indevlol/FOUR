@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfobjectleg.png">
+<SubTexture name="bfobjectleg bfidle0000" x="0" y="1016" width="446" height="318" frameX="-408" frameY="-302" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0001" x="893" y="1016" width="446" height="315" frameX="-406" frameY="-306" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0002" x="446" y="1016" width="447" height="317" frameX="-410" frameY="-305" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0003" x="480" y="357" width="442" height="325" frameX="-418" frameY="-296" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0004" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0005" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0006" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0007" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0008" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0009" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0010" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0011" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0012" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfidle0013" x="930" y="331" width="446" height="328" frameX="-417" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfleft0000" x="470" y="0" width="460" height="334" frameX="-381" frameY="-287" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfleft0001" x="930" y="0" width="462" height="331" frameX="-388" frameY="-289" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfdown0000" x="1392" y="0" width="429" height="310" frameX="-413" frameY="-325" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfdown0001" x="477" y="691" width="427" height="321" frameX="-415" frameY="-318" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfright0000" x="0" y="691" width="477" height="325" frameX="-422" frameY="-298" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfright0001" x="904" y="691" width="458" height="319" frameX="-434" frameY="-301" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfup0000" x="0" y="0" width="470" height="357" frameX="-373" frameY="-267" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfobjectleg bfup0001" x="0" y="357" width="480" height="334" frameX="-365" frameY="-282" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

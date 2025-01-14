@@ -1,12 +1,8 @@
 <!DOCTYPE codename-engine-character>
-<character y="380" sprite="boyfriendy" flipX="true" camy="50" isPlayer="true" icon="bf" color="#30B0D1" holdTime="6.1">
-	<anim name="idle" anim="BF idle dance instance" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singUP" anim="BF NOTE UP instance" x="-2" y="20" fps="24" loop="false"/>
-	<anim name="singLEFT" anim="BF NOTE LEFT instance" x="33" y="0" fps="24" loop="false"/>
-	<anim name="singRIGHT" anim="BF NOTE RIGHT instance" x="-26" y="0" fps="24" loop="false"/>
-	<anim name="singDOWN" anim="BF NOTE DOWN instance" x="9" y="-23" fps="24" loop="false"/>
-	<anim name="singUPmiss" anim="BF NOTE UP MISS instance" x="10" y="15" fps="24" loop="false"/>
-	<anim name="singDOWNmiss" anim="BF NOTE DOWN MISS instance" x="25" y="-75" fps="24" loop="false"/>
-	<anim name="singLEFTmiss" anim="BF NOTE LEFT MISS instance" x="35" y="-65" fps="24" loop="false"/>
-	<anim name="singRIGHTmiss" anim="BF NOTE RIGHT MISS instance" x="5" y="0" fps="24" loop="false"/>
+<character x="-100" y="150" sprite="bfobjectleg" flipX="true" camx="-50" camy="50" isPlayer="true" icon="bfobject" color="#59E8FF" holdTime="6.1">
+	<anim name="idle" anim="bfobjectleg bfidle" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP" anim="bfobjectleg bfup" x="-7" y="3" fps="12" loop="false"/>
+	<anim name="singLEFT" anim="bfobjectleg bfleft" x="-2" y="0" fps="12" loop="false"/>
+	<anim name="singRIGHT" anim="bfobjectleg bfright" x="-8" y="1" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="bfobjectleg bfdown" x="-3" y="-2" fps="12" loop="false"/>
 </character>
