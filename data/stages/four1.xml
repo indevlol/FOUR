@@ -10,6 +10,6 @@
     <sprite name = "landNormal"     x = "-1200" y = "600"     sprite = "landNorm"       scrollx = "1" />
     <sprite name = "stash"          x = "-500"  y = "400"     sprite = "stash"          scrollx = "1" />
     <girlfriend x = "550" zoomOffset = "0.7"/>
-    <dad       x = "-130" zoomOffset = "0.8"/>
-    <boyfriend x = "800" zoomOffset = "1"/>
+    <dad       x = "-130" zoomOffset = "0.7"/>
+    <boyfriend x = "800" zoomOffset = "0.95"/>
 </stage> -->
