@@ -10,7 +10,7 @@
     <!-- <sprite name = "treesNormal"    x = "500"  y = "370"    sprite = "treesNorm"      scroll = "1.1" /> -->
     <sprite name = "grass"     x = "-1000" y = "600"  scale="1.2"   sprite = "running/grass"       scroll = "0.9" />
     <sprite name = "grass2"     x = "1900" y = "600"  scale="1.2"   sprite = "running/grass"       scroll = "0.9" />
-    <girlfriend />
-    <dad       x = "100"/>
-    <boyfriend x = "900"/>
+    <girlfriend x = "970" />
+    <dad       x = "100" zoomOffset = "0.8"/>
+    <boyfriend x = "900" zoomOffset = "1"/>
 </stage>

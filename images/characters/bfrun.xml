@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfrun.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfobjrundown instance 10000" x="0" y="0" width="381" height="299" frameX="-1" frameY="-5" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10001" x="0" y="0" width="381" height="299" frameX="-1" frameY="-5" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10002" x="381" y="0" width="382" height="296" frameX="0" frameY="0" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10003" x="381" y="0" width="382" height="296" frameX="0" frameY="0" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10004" x="381" y="0" width="382" height="296" frameX="0" frameY="0" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10005" x="381" y="0" width="382" height="296" frameX="0" frameY="0" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10006" x="381" y="0" width="382" height="296" frameX="0" frameY="0" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10007" x="381" y="0" width="382" height="296" frameX="0" frameY="0" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10008" x="381" y="0" width="382" height="296" frameX="0" frameY="0" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrundown instance 10009" x="381" y="0" width="382" height="296" frameX="0" frameY="0" frameWidth="382" frameHeight="304"/>
+	<SubTexture name="bfobjrunidle instance 10000" x="763" y="0" width="379" height="254" frameX="-1" frameY="-2" frameWidth="386" frameHeight="279"/>
+	<SubTexture name="bfobjrunidle instance 10001" x="1142" y="0" width="379" height="256" frameX="-2" frameY="-6" frameWidth="386" frameHeight="279"/>
+	<SubTexture name="bfobjrunidle instance 10002" x="1521" y="0" width="381" height="264" frameX="-5" frameY="-15" frameWidth="386" frameHeight="279"/>
+	<SubTexture name="bfobjrunidle instance 10003" x="0" y="299" width="381" height="262" frameX="-5" frameY="-14" frameWidth="386" frameHeight="279"/>
+	<SubTexture name="bfobjrunidle instance 10004" x="381" y="299" width="380" height="255" frameX="0" frameY="0" frameWidth="386" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10000" x="761" y="299" width="382" height="276" frameX="0" frameY="-3" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10001" x="761" y="299" width="382" height="276" frameX="0" frameY="-3" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10002" x="1143" y="299" width="383" height="276" frameX="-4" frameY="0" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10003" x="1143" y="299" width="383" height="276" frameX="-4" frameY="0" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10004" x="1143" y="299" width="383" height="276" frameX="-4" frameY="0" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10005" x="1143" y="299" width="383" height="276" frameX="-4" frameY="0" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10006" x="1143" y="299" width="383" height="276" frameX="-4" frameY="0" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10007" x="1143" y="299" width="383" height="276" frameX="-4" frameY="0" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10008" x="1143" y="299" width="383" height="276" frameX="-4" frameY="0" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunleft instance 10009" x="1143" y="299" width="383" height="276" frameX="-4" frameY="0" frameWidth="387" frameHeight="279"/>
+	<SubTexture name="bfobjrunright instance 10000" x="1526" y="299" width="381" height="256" frameX="-6" frameY="0" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10001" x="1526" y="299" width="381" height="256" frameX="-6" frameY="0" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10002" x="0" y="575" width="382" height="259" frameX="0" frameY="-3" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10003" x="0" y="575" width="382" height="259" frameX="0" frameY="-3" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10004" x="0" y="575" width="382" height="259" frameX="0" frameY="-3" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10005" x="0" y="575" width="382" height="259" frameX="0" frameY="-3" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10006" x="0" y="575" width="382" height="259" frameX="0" frameY="-3" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10007" x="0" y="575" width="382" height="259" frameX="0" frameY="-3" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10008" x="0" y="575" width="382" height="259" frameX="0" frameY="-3" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunright instance 10009" x="0" y="575" width="382" height="259" frameX="0" frameY="-3" frameWidth="387" frameHeight="262"/>
+	<SubTexture name="bfobjrunup instance 10000" x="382" y="575" width="377" height="271" frameX="-2" frameY="0" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10001" x="382" y="575" width="377" height="271" frameX="-2" frameY="0" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10002" x="759" y="575" width="380" height="264" frameX="0" frameY="-8" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10003" x="759" y="575" width="380" height="264" frameX="0" frameY="-8" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10004" x="759" y="575" width="380" height="264" frameX="0" frameY="-8" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10005" x="759" y="575" width="380" height="264" frameX="0" frameY="-8" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10006" x="759" y="575" width="380" height="264" frameX="0" frameY="-8" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10007" x="759" y="575" width="380" height="264" frameX="0" frameY="-8" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10008" x="759" y="575" width="380" height="264" frameX="0" frameY="-8" frameWidth="380" frameHeight="272"/>
+	<SubTexture name="bfobjrunup instance 10009" x="759" y="575" width="380" height="264" frameX="0" frameY="-8" frameWidth="380" frameHeight="272"/>
+</TextureAtlas>

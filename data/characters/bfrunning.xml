@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="390" sprite="bfrun" flipX="true" camy="50" isPlayer="true" icon="bfobject" color="#59E8FF" holdTime="6.1">
+	<anim name="idle" anim="bfobjrunidle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="bfobjrunup" x="3" y="-4" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="bfobjrunleft" x="8" y="-12" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="bfobjrunright" x="-6" y="-8" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="bfobjrundown" x="0" y="-10" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="legs.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leggy instance 10000" x="0" y="0" width="183" height="53" frameX="-10" frameY="-3" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10001" x="183" y="0" width="165" height="68" frameX="-29" frameY="-4" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10002" x="348" y="0" width="84" height="72" frameX="-75" frameY="-2" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10003" x="432" y="0" width="74" height="77" frameX="-73" frameY="0" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10004" x="0" y="77" width="82" height="47" frameX="-65" frameY="-6" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10005" x="82" y="77" width="74" height="53" frameX="-75" frameY="-3" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10006" x="156" y="77" width="102" height="68" frameX="-75" frameY="-4" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10007" x="258" y="77" width="149" height="72" frameX="-54" frameY="-2" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10008" x="0" y="149" width="165" height="77" frameX="-38" frameY="0" frameWidth="203" frameHeight="77"/>
+	<SubTexture name="leggy instance 10009" x="165" y="149" width="195" height="47" frameX="0" frameY="-6" frameWidth="203" frameHeight="77"/>
+</TextureAtlas>

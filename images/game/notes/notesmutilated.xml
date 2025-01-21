@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="notesmutilated.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bluemut instance 10000" x="0" y="0" width="105" height="110"/>
+	<SubTexture name="greenmut instance 10000" x="105" y="0" width="85" height="109"/>
+	<SubTexture name="purpmut instance 10000" x="0" y="110" width="129" height="106"/>
+	<SubTexture name="redmut instance 10000" x="129" y="110" width="107" height="107"/>
+</TextureAtlas>
