@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="announcer" folder="stages/announcer/" startCamPosY = "0" startCamPosX="0">
+    <girlfriend x = "0" zoomOffset = "0.7"/>
+    <sprite name = "sky"            x = "-700" y = "0"   sprite = "sky"   scroll = "0.9"/>
+    <sprite name = "grass"      x = "-700"  y = "500"     sprite = "grass"      scroll = "0.9"/>
+    <dad       x = "-530" zoomOffset = "1"/>
+    <boyfriend x = "400" zoomOffset = "0.95"/>
+</stage> -->
